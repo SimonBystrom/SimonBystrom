@@ -4,6 +4,7 @@ I'm a fullstack developer who love making the front-end shine 💅 and the back-
 
 If you wanna know more about me / work with me, please hit me up on my email seen on your left! 
 (or just click here simon.bystrom@hyperisland.se )
+I'd love to talk either over zoom 🗨️ or coffee ☕ in Tokyo! 
 
 See you! 👋
 
