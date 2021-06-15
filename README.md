@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello I'm Simon! 🙂 💻
+
+I'm a fullstack developer who love making the front-end shine 💅 and the back-end run smoothly 🚗! 
+
+If you wanna know more about me / work with me, please hit me up on my email seen on your left! 
+(or just click here simon.bystrom@hyperisland.se )
+
+See you! 👋
 
 <!--
 **SimonBystrom/SimonBystrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
